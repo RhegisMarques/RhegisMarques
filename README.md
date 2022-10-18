@@ -17,8 +17,10 @@ Oi eu sou Rhegis marques,
   
 ##
  
-<div>  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+<div> 
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 <img width="45%" style="display: inline-block; margin: auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@RhegisMarques
