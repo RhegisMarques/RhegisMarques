@@ -23,5 +23,9 @@ Oi eu sou Rhegis marques,
   
 </div>
 
+<div>
+
 <img width="45%" style="display: inline-block; margin: auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@RhegisMarques
 &theme=dark" alt="statistica">
+
+</div>
