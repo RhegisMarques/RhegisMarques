@@ -16,12 +16,16 @@ Oi eu sou Rhegis marques,
 </div>
 
 ##
-<div> 
-  
-  <img width="45%" style="display: inline-block; margin: auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@RhegisMarques
-&theme=dark" alt="statistica">
-  
-</div>
+ <div>
+     <div align="center">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api?username=leonardobl&show_icons=true&theme=dark" alt="statistica github">
+      </div>
+      <br>
+      <div align="center"> 
+        <img width="45%" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobl&layout=compact&theme=dark" alt="statistica">
+        <img width="45%" style="display: inline-block; margin: auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl&theme=dark" alt="statistica">
+      </div>
+    </div>
   
 ##
  
