@@ -1,6 +1,6 @@
 ## 
 
-<h2>Oi eu sou Rhegis marques,</h2>
+<h2>Oi eu sou Rhegis Marques,</h2>
 
  ##
  <div>
